@@ -121,11 +121,4 @@ A simple GUI-based Tic Tac Toe game built using Python and Tkinter. Play a class
     ```
 
 ---
-
-## 📄 License
-
-This repository is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
 Developed with ❤️ by **Sathwik Radarapu**
